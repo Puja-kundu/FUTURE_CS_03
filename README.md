@@ -17,7 +17,7 @@ This repository contains my completed work for Task 3 of the Future Interns Cybe
 ### 📌 How to run
 
 1. Clone this repo:
-  https://github.com/Puja-kundu/FUTURE_CS_03
+  https://github.com/Puja-kundu/FUTURE_CS_03.git
 
 2. Create a virtual environment:
    python3 -m venv venv
